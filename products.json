@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Espresso",
+    "category": "Hot Coffee",
+    "price": 12,
+    "description": "Strong and rich coffee taste.",
+    "image": "images/espresso.jpg"
+  },
+  {
+    "name": "Latte",
+    "category": "Hot Coffee",
+    "price": 17,
+    "description": "Smooth coffee with creamy milk.",
+    "image": "images/latte.jpg"
+  },
+  {
+    "name": "Cappuccino",
+    "category": "Hot Coffee",
+    "price": 16,
+    "description": "Balanced coffee with milk foam.",
+    "image": "images/cappuccino.jpg"
+  },
+  {
+    "name": "Iced Coffee",
+    "category": "Cold Drinks",
+    "price": 15,
+    "description": "Cold and refreshing coffee drink.",
+    "image": "images/iced-coffee.jpg"
+  },
+  {
+    "name": "Iced Latte",
+    "category": "Cold Drinks",
+    "price": 18,
+    "description": "Creamy milk with chilled coffee.",
+    "image": "images/iced-latte.jpg"
+  },
+  {
+    "name": "Frappe",
+    "category": "Cold Drinks",
+    "price": 19,
+    "description": "Blended iced coffee with sweet flavor.",
+    "image": "images/frappe.jpg"
+  },
+  {
+    "name": "Croissant",
+    "category": "Desserts",
+    "price": 10,
+    "description": "Fresh buttery pastry.",
+    "image": "images/croissant.jpg"
+  },
+  {
+    "name": "Cheesecake",
+    "category": "Desserts",
+    "price": 15,
+    "description": "Soft and creamy dessert.",
+    "image": "images/cheesecake.jpg"
+  },
+  {
+    "name": "Brownie",
+    "category": "Desserts",
+    "price": 13,
+    "description": "Rich chocolate brownie.",
+    "image": "images/brownie.jpg"
+  }
+]
